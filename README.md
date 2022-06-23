@@ -43,7 +43,6 @@ user's needs.
 </p>
 
 <br/>
-<br/>
 
 <p align="Center"> 
     <i>figure: a typical Home Assistant dashboard with "things" </i> 
