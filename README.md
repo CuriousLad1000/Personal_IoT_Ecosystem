@@ -46,7 +46,7 @@ user's needs.
 <br/>
 
 <p align="Center"> 
-    *figure: a typical Home Assistant dashboard with "things"*  
+    <i>figure: a typical Home Assistant dashboard with "things" </i> 
 <a href="https://magazine.odroid.com/article/home-assistant/">(src: Odroid)</a>
 
 </p> 
