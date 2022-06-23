@@ -45,8 +45,11 @@ user's needs.
 <br/>
 <br/>
 
-*figure: a typical Home Assistant dashboard with "things" (src:
-[Odroid](https://magazine.odroid.com/article/home-assistant/))*
+<p align="Center"> 
+    *figure: a typical Home Assistant dashboard with "things"*  
+<a href="https://magazine.odroid.com/article/home-assistant/">(src: Odroid)</a>
+
+</p> 
 
 ## Project Objective
 
