@@ -39,7 +39,7 @@ user's needs.
 <br/>
 
 <p align="Center">
-  <img src="/osama.tasneem/Personal_IoT_Ecosystem/wiki/raw/images/cd9ca22b734e14377b292a22463abc663f17eaed.png">
+  <img src="https://raw.githubusercontent.com/wiki/CuriousLad1000/Personal_IoT_Ecosystem/images/cd9ca22b734e14377b292a22463abc663f17eaed.png">
 </p>
 
 <br/>
@@ -111,7 +111,7 @@ drain*)
 <br/>
 
 <p align="Center">
-  <img src="/osama.tasneem/Personal_IoT_Ecosystem/wiki/raw/images/d2d9b88cd6173f157dab0796d855a6540feea4bd.png">
+  <img src="https://raw.githubusercontent.com/wiki/CuriousLad1000/Personal_IoT_Ecosystem/images/d2d9b88cd6173f157dab0796d855a6540feea4bd.png">
 </p>
 
 <br/>
@@ -125,7 +125,7 @@ drain*)
 <br/>
 
 <p align="Center">
-  <img src="/osama.tasneem/Personal_IoT_Ecosystem/wiki/raw/images/95b9d5f1851691fc85e3653442e262d46e1da56e.png">
+  <img src="https://raw.githubusercontent.com/wiki/CuriousLad1000/Personal_IoT_Ecosystem/images/95b9d5f1851691fc85e3653442e262d46e1da56e.png">
 </p>
 
 <br/>
@@ -135,7 +135,7 @@ drain*)
 <br/>
 
 <p align="Center">
-  <img src="/osama.tasneem/Personal_IoT_Ecosystem/wiki/raw/images/29580f7ac6276203d616f989e23ff359d364da47.png">
+  <img src="https://raw.githubusercontent.com/wiki/CuriousLad1000/Personal_IoT_Ecosystem/images/29580f7ac6276203d616f989e23ff359d364da47.png">
 </p>
 
 <br/>
@@ -147,7 +147,7 @@ drain*)
 <br/>
 
 <p align="Center">
-  <img width="500" height="370" src="/osama.tasneem/Personal_IoT_Ecosystem/wiki/raw/images/914eabd92b4103b277a67e7f11df39e5015647d1.jpg">
+  <img width="500" height="370" src="https://raw.githubusercontent.com/wiki/CuriousLad1000/Personal_IoT_Ecosystem/images/914eabd92b4103b277a67e7f11df39e5015647d1.jpg">
 </p>
 
 <br/>
@@ -157,7 +157,7 @@ drain*)
 <br/>
 
 <p align="Center">
-  <img width="500" height="370" src="/osama.tasneem/Personal_IoT_Ecosystem/wiki/raw/images/97a2a608284fc8795c3dd5d1f7c6dddebb2cb54d.jpg">
+  <img width="500" height="370" src="https://raw.githubusercontent.com/wiki/CuriousLad1000/Personal_IoT_Ecosystem/images/97a2a608284fc8795c3dd5d1f7c6dddebb2cb54d.jpg">
 </p>
 
 <br/>
